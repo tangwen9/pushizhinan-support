@@ -6,7 +6,7 @@
 
 如遇问题或反馈建议，请联系：
 
-- 邮箱：** tangshi426@gmail.com**
+- 邮箱：tangshi426@gmail.com
 
 我们通常在 1-3 个工作日内回复。
 
